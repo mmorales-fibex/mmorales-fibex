@@ -54,7 +54,7 @@ Mi enfoque principal está orientado a la creación de aplicaciones móviles hí
 
 - 📧 **Correo Corporativo:** [mmorales@grupoconex.net](mailto:mmorales@grupoconex.net)
 - ✉️ **Correo Personal:** [manuesteban1990@gmail.com](mailto:manuesteban1990@gmail.com)
-- 💻 **GitHub:** [@MMoralesZuarez](https://github.com/MMoralesZuarez)
+- 💻 **GitHub:** [@mmorales-fibex](https://github.com/mmorales-fibex)
 
 ---
 
@@ -74,11 +74,11 @@ Mi enfoque principal está orientado a la creación de aplicaciones móviles hí
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angstromico&theme=dark&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmorales-fibex&theme=dark&hide_border=true" alt="GitHub streak stats" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angstromico&theme=tokyo-night&hide_border=true&area=true&custom_title=Angstromico%20Contribution%20Graph" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmorales-fibex&theme=tokyo-night&hide_border=true&area=true&custom_title=Angstromico%20Contribution%20Graph" alt="Contribution Graph" width="98%" />
 </p>
 
 <p align="center">
