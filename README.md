@@ -62,14 +62,14 @@ Mi enfoque principal está orientado a la creación de aplicaciones móviles hí
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=angstromico&show_icons=true&count_private=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=ffffff&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=mmorales-fibex&show_icons=true&count_private=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=ffffff&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=angstromico&show_icons=true&count_private=true&theme=default&hide_border=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=angstromico&show_icons=true&count_private=true&theme=default&hide_border=true" height="190px">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=mmorales-fibex&show_icons=true&count_private=true&theme=default&hide_border=true" height="190px">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=angstromico&layout=compact&langs_count=8&theme=transparent&title_color=00ff88&text_color=ffffff&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=angstromico&layout=compact&langs_count=8&theme=default&hide_border=true">
-    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=angstromico&layout=compact&langs_count=8&theme=default&hide_border=true" height="190px">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=mmorales-fibex&layout=compact&langs_count=8&theme=transparent&title_color=00ff88&text_color=ffffff&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=mmorales-fibex&layout=compact&langs_count=8&theme=default&hide_border=true">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=mmorales-fibex&layout=compact&langs_count=8&theme=default&hide_border=true" height="190px">
   </picture>
 </div>
 
@@ -78,7 +78,7 @@ Mi enfoque principal está orientado a la creación de aplicaciones móviles hí
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmorales-fibex&theme=tokyo-night&hide_border=true&area=true&custom_title=Angstromico%20Contribution%20Graph" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmorales-fibex&theme=tokyo-night&hide_border=true&area=true&custom_title=mmorales-fibex%20Contribution%20Graph" alt="Contribution Graph" width="98%" />
 </p>
 
 <p align="center">
